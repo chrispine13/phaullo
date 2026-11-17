@@ -1,0 +1,11 @@
+body{
+    background-attachment: fixed;
+    background-color: blue;
+    background-repeat: round;
+    position: fixed;
+}
+h1{
+    color: chartreuse;
+    position: relative;
+    box-shadow: inset;
+}
